@@ -5,14 +5,6 @@
 ## Description
 This Java program calculates the **Area**, **Perimeter**, and **Volume** of various shapes using an **abstract class (Shape)**. It follows an **object-oriented approach** with separate Java files for each shape.
 
-## Features
-- Supports **Circle, Rectangle, Square, Sphere, Cylinder, and Equilateral Pyramid**.
-- Uses **menu-driven** input for user convenience.
-- Provides **Area and Perimeter** for all shapes.
-- Calculates **Volume** for 3D shapes (Sphere, Cylinder, Pyramid).
-
----
-
 ## List of Variables
 
 | Variable Name | Data Type | Use |
@@ -35,7 +27,3 @@ This Java program calculates the **Area**, **Perimeter**, and **Volume** of vari
 
 ---
 
-## How to Run
-1. **Compile all Java files**:  
-   ```sh
-   javac *.java
