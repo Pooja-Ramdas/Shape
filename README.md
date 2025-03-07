@@ -1,7 +1,4 @@
 # Shape
-
-# Shape Calculator
-
 ## Description
 This Java program calculates the **Area**, **Perimeter**, and **Volume** of various shapes using an **abstract class (Shape)**. It follows an **object-oriented approach** with separate Java files for each shape.
 
